@@ -3,12 +3,13 @@
 - 🌱 Atualmente estudando sobre **Design UI/UX** e **desenvolvimento Front-End** com **React**
 - 📮 Contato: murilocruzro@gmail.com
 
+<!--
 ##
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilokkj&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ##
 
 Linguagens Front-End:
