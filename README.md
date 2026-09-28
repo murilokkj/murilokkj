@@ -3,7 +3,7 @@
 
 ### Quem sou eu?
 
-<p style="text-align: justify">🌱 Estudante do 3° semestre de Análise e Desenvolvimento de Sistemas com uma paixão por tecnologia e design. Atualmente, foco meus estudos em <strong>Desenvolvimento Front-End</strong> e na criação de interfaces centradas no usuário com <strong>Design UI/UX</strong>.</hr>
+<p style="text-align: justify">🌱 Estudante do 4° semestre de Análise e Desenvolvimento de Sistemas com uma paixão por tecnologia e design. Atualmente, foco meus estudos em <strong>Desenvolvimento Front-End</strong> e na criação de interfaces centradas no usuário com <strong>Design UI/UX</strong>.</hr>
 
 ### Minhas linguagens
 <div style="display: inline-block">
